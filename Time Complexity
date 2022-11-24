@@ -1,0 +1,11 @@
+Searching;
+Best Case: Ω(1)
+Worst Case: O(n)
+
+Insertion;
+Best Case: Ω(1)
+Worst Case: O(n)
+
+Deletion:
+Best Case: Ω(1)
+Worst Case: O(n)
